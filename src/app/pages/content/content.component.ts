@@ -13,6 +13,8 @@ export class ContentComponent implements OnInit {
   contentTitle:string = ''
   contentDescription: string = ''
   private id: string | null = '0';
+  
+  contentDescriptionWithBreaks: string = '';
 
   constructor( private routes: ActivatedRoute ) { }
 
@@ -31,5 +33,7 @@ export class ContentComponent implements OnInit {
     this.contentDescription = result.description
     this.photoCover = result.photoCover
 
+  // Adicionando quebras de linha
+  this.contentDescriptionWithBreaks = this.contentDescription.replace(/\n/g, '<br/>')
   }
 }

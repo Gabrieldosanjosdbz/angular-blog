@@ -2,25 +2,32 @@ export const dataFake = [
     {
         "id": "1",
         "title": "Fifa The Best: Messi é eleito melhor jogador do mundo",
-        "description": "bla bla bla",
+
+        "description": "A Era Messi continua. O craque argentino foi coroado no The Best e, pela oitava vez em sua carreira, foi o eleito o melhor jogador do mundo pela Fifa. Mas desta vez foi uma surpresa. O camisa 10 do Inter Miami, também vencedor da Bola de Ouro em 2023, superou o favorito Haaland, do Manchester City, e Mbappé, do PSG, que completaram o pódio.\n\nNenhum dos três finalistas esteve presente na cerimônia. Messi e Haaland terminaram empatados na votação, e o vencedor entre capitães de seleções, o argentino, foi coroado. Diante da ausência do ganhador, o anfitrião do evento, o ex-jogador e comentarista Thierry Henry chegou a brincar com a plateia: “Eu posso ficar com o troféu, então? Eu nunca ganhei...\n\nA surpresa com o prêmio ficou nítida com os aplausos tímidos da plateia e a reação bem-humorada dos apresentadores. O período de análise do Fifa The Best foi de 19 de dezembro de 2022, um dia após a Copa do Mundo, até 20 de agosto de 2023.”\n\n\nVeja a performance dos três finalistas no período analisado:\n\n● Messi: 32 jogos, 24 gols e oito assistências\n\n● Haaland: 41 jogos, 35 gols e seis assistências\n\n● Mbappé: 28, 27 gols e sete assistências\n\n\nVeja os títulos dos três finalistas no período analisado:\n\n● Messi: Campeonato Francês e Leagues Cup\n\n● Mbappé: Campeonato Francês\n\n● Haaland: Copa da Inglaterra, Premier League e Champions League",
+
         "photoCover": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0f73c317d40b47b3/65a5a0221dcd66040a64689a/messi-the_best.jpg?auto=webp&format=pjpg&width=3840&quality=60"
     },
     {
         "id": "2",
         "title": "Fifa The Best: Aitana Bonmatí é eleita melhor jogadora do mundo",
-        "description": "ola",
+
+        "description": "A espanhola Aitana Bonmatí, meio-campista do Barcelona, foi eleita a melhor jogadora do mundo pelo prêmio Fifa The Best. A cerimônia foi realizada nesta segunda-feira (15) em Londres, na Inglaterra.\n\nAs outras finalistas ao prêmio eram a colombiana Linda Caicedo (Real Madrid) e a espanhola Jennifer Hermoso (Tigres).\n\nA jogadora de 25 anos foi campeã da Copa do Mundo Feminina de 2023 e também recebeu a Bola de Ouro de 2023. Além disso, foi tetracampeã consecutiva do Campeonato Espanhol feminino pelo Barcelona, além de ter duas Champions League pela equipe.\n\nSarina Wiegman, técnica da seleção da Inglaterra, foi eleita a melhor técnica de futebol feminino. Mary Earps, também da seleção inglesa e do Manchester United, conquistou a premiação na categoria de melhor goleira.\n\nA premiação considera o período entre 19 de dezembro de 2022 (após a Copa do Mundo do Catar) a 20 de agosto de 2023.",
+
         "photoCover": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/GettyImages-1935657028-e1705353503508.jpg?w=732&h=412&crop=1"
     },
     {
         "id": "3",
         "title": "Homenageada pelo The Best Fifa, Marta estrela filme do Itaú",
-        "description": "ola",
+
+        "description": " Nesta segunda-feira, 15, Marta foi homenageada durante a cerimônia da premiação The Best Fifa, que criou o prêmio Marta.\n\nNo comercial criado pela Africa Creative (assista ao final desta nota), a jogadora aparece nos gramados, cenário onde já marcou mais de uma centena de gols ao longo de 21 anos de seleção brasileira, e reflete sobre a fórmula perfeita para atingir objetivos de vida.\n\nAlém de comemorar o centenário da instituição, a peça dá continuidade ao posicionamento “Feito de Futuro”. A partir da ideia de que manter-se contemporâneo é celebrar o que já veio sem deixar de moldar o futuro, o conceito quer inspirar as pessoas sobre o valor do tempo, da longevidade e do legado.\n\nEssa reflexão teve início no final de 2023, com um filme que trouxe nomes como Madonna, Jorge Ben Jor, Ronaldo Nazário, Fernanda Montenegro, Ingrid Silva e a própria Marta.<br><br>Segundo o banco, este rol de personalidades conseguem, por meio de suas histórias, levar esse conceito para a vida das pessoas. As pessoas escolhidas para a campanha, portanto, foram selecionadas por seus legados que perpassam as gerações e se mantêm contemporâneos.\n\nThaiza Akemi, superintendente de marketing do Itaú Unibanco, explica que Marta, além de elevar o futebol feminino à pauta global, sempre se posicionou sobre pautas relevantes, como a igualdade de gênero e social.\n\nEm campo, Marta foi apontada como melhor jogadora do mundo seis vezes, sendo cinco de forma consecutiva — o que representa um recorde não somente entre mulheres, mas entre homens. ”O futuro não é só para as novas gerações, mas para qualquer pessoa”, diz Marta no comercial.",
+
         "photoCover": "https://cultura.uol.com.br/upload/tvcultura/esporte/20240115211658_marta-2-.jpg"
     },
     {
         "id": "4",
-        "title": "Guilherme Madruga vence Prêmio Puskás por golaço de bicicleta",
-        "description": "ola",
+        "title": "Guilherme Madruga vence Prêmio Puskás por golaço de bicicleta ",
+        "description": 'Guilherme Madruga, ex-Botafogo-SP e anunciado hoje pelo Cuiabá, faturou o Prêmio Puskás, que elege o gol mais bonito do ano no planeta, no Fifa The Best 2023 (assista ao lance abaixo).\n\nO meio-campista de 23 anos superou Julio Enciso e Nuno Santos. Os atletas de Brighton e Sporting, respectivamente, fecharam o top 3.\n\n"Quando fiz este gol, estava emprestado e só queria ser comprado. Planejei apenas este objetivo e Deus me concedeu: fui comprado. Hoje, vou disputar a 1ª divisão do Campeonato Brasileiro. Esta dedicatória vai para minha família e aos meus pais, que estão no Brasil. Pai, todos aqueles que te chamavam de louco não vão mais chamar: estou virando profissional. Mãe, toda vez que a senhora chorou escondido quando estava longe, saiba que valeu a pena. E meu irmão, que está comigo: muita gratidão por me acompanhar. É um sonho que estou vivendo e não esperava isso"\n‎ ‎ ‎ -‎ Guilherme Madruga em discurso após vencer Puskás\n\n● Madruga marcou um golaço de bicicleta em junho, quando o Botafogo-SP bateu, fora de casa, o Novorizontino pela Série B do Campeonato Brasileiro.\n\n● A pintura ocorreu no fim do 1° tempo da partida em questão. Após dividida pelo alto, Madruga emendou uma bicicleta de fora da área, encobriu o goleiro Jordi e garantiu a vitória para a equipe de Ribeirão Preto',
+
         "photoCover": "https://s2-oglobo.glbimg.com/_trLOJGvE7HK88wICweRDeAXI6M=/0x0:7552x5035/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/B/8/vYIjmfTmABqUbPHEmeCQ/105560616-botafogo-midfielder-guilherme-madruga-speaks-on-stage-after-receiving-the-fifa-puskas.jpg"
     }
 ]
