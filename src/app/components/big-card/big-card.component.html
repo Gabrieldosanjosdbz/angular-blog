@@ -1,7 +1,7 @@
 <div class="container__big-card">
     <div class="big-card__photo">
         <img  
-         src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0f73c317d40b47b3/65a5a0221dcd66040a64689a/messi-the_best.jpg?auto=webp&format=pjpg&width=3840&quality=60" 
+         src="{{ photoCover }}"
          alt="" 
          height="200px"
          srcset=""
@@ -9,13 +9,13 @@
     </div>
 
     <div class="big-card__title">
-        <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+        <h1><a href="#">{{ cardTitle }}</a></h1>
     </div>
 
-    <div class="big-card__  description">
+    <div class="big-card__description">
         <p>
             <a href="#">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed placerat augue, eget aliquam dui. Duis eleifend, nibh quis mattis imperdiet, nisi odio imperdiet libero, id condimentum arcu erat eu ligula. Nullam tincidunt placerat hendrerit. Proin vitae urna feugiat, tempor nibh ac, aliquam leo. Phasellus felis odio, tincidunt non feugiat nec, rhoncus scelerisque elit. Vivamus ultricies odio vel ullamcorper venenatis.
+               {{cardDescription}}
             </a>
         </p>
     </div>

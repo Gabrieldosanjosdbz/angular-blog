@@ -21,7 +21,7 @@
     margin-top: 10px;
 }
 
-.big-card__description p a{
+.big-card__description > p > a{
     color:grey;
 }
 
