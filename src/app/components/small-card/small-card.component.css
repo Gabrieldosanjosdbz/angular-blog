@@ -9,6 +9,8 @@
 }
 
 .small-card__photo img{
+    border: solid rgb(144, 144, 144) 2px;
+    border-radius: 5px;
     width: 200px;
     min-width: 200px;
     margin-right: 20px;
